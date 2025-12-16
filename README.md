@@ -16,7 +16,7 @@ The repository includes:
 - Exploratory implementations for learning purposes
 
 ## 🚀 How to Use
-1. Install OpenCV on your system  
+1. Install [OpenCV](https://opencv.org/) on your system  
 2. Clone this repository:
    ```bash
    git clone https://github.com/cyberdebb/Testing-OpenCV.git
@@ -26,6 +26,3 @@ The repository includes:
 ## ⚠️ Notes
 - This repository is intended for educational and experimental purposes.
 - The implementations are not focused on production-level optimization.
-
-## 📚 References
-- OpenCV Documentation: https://opencv.org/
