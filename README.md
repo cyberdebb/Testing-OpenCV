@@ -1,4 +1,4 @@
-# Testing-OpenCV
+# Testing OpenCV
 
 This repository contains a collection of files and experiments focused on **deepening studies in the OpenCV library using C++**.
 
